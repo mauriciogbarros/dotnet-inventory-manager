@@ -1,0 +1,15 @@
+/Users/mauricio/Desktop/dotnet-inventory-manager/src/bin/Debug/net9.0/InventoryManager
+/Users/mauricio/Desktop/dotnet-inventory-manager/src/bin/Debug/net9.0/InventoryManager.deps.json
+/Users/mauricio/Desktop/dotnet-inventory-manager/src/bin/Debug/net9.0/InventoryManager.runtimeconfig.json
+/Users/mauricio/Desktop/dotnet-inventory-manager/src/bin/Debug/net9.0/InventoryManager.dll
+/Users/mauricio/Desktop/dotnet-inventory-manager/src/bin/Debug/net9.0/InventoryManager.pdb
+/Users/mauricio/Desktop/dotnet-inventory-manager/src/obj/Debug/net9.0/InventoryManager.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mauricio/Desktop/dotnet-inventory-manager/src/obj/Debug/net9.0/InventoryManager.AssemblyInfoInputs.cache
+/Users/mauricio/Desktop/dotnet-inventory-manager/src/obj/Debug/net9.0/InventoryManager.AssemblyInfo.cs
+/Users/mauricio/Desktop/dotnet-inventory-manager/src/obj/Debug/net9.0/InventoryManager.csproj.CoreCompileInputs.cache
+/Users/mauricio/Desktop/dotnet-inventory-manager/src/obj/Debug/net9.0/InventoryManager.sourcelink.json
+/Users/mauricio/Desktop/dotnet-inventory-manager/src/obj/Debug/net9.0/InventoryManager.dll
+/Users/mauricio/Desktop/dotnet-inventory-manager/src/obj/Debug/net9.0/refint/InventoryManager.dll
+/Users/mauricio/Desktop/dotnet-inventory-manager/src/obj/Debug/net9.0/InventoryManager.pdb
+/Users/mauricio/Desktop/dotnet-inventory-manager/src/obj/Debug/net9.0/InventoryManager.genruntimeconfig.cache
+/Users/mauricio/Desktop/dotnet-inventory-manager/src/obj/Debug/net9.0/ref/InventoryManager.dll
